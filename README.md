@@ -5,3 +5,6 @@ This repository contains relevant code to replicate the main results of our pape
 ## Running backtesting
 
 ## Generating figures
+
+To generate the figures of Section 4 Experiments of the article, run the ```paper_plots.ipynb``` notebook accordingly.
+It uses the stored backtested parameters as stored in respective json files in the ```files``` folder.
