@@ -1,6 +1,6 @@
 # Backtesting the predictability of COVID-19
 
-This repository contains the relevant code to replicate the main results of our paper "Backtesting the predictability of COVID-19"
+This repository contains the relevant code to replicate the main results of our paper "Backtesting the predictability of COVID-19" found at https://arxiv.org/abs/2007.11411.
 
 ## Running backtesting
 
